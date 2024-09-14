@@ -4,7 +4,7 @@
 1. [Moving Sphere](./Moving_Ball.m)
 2. [Two Link Manipulator](./Two_Link_Manipulator.m)
 3. [UAV (Unmanned Aerial Vehicle)](./UAV.m)
-4. [Manipulator X](./Manipulator_X.m)
+4. [6DOF Manipulator](./Stanford_Arm.m)
 
 
 ## Problem Results (GIF)
