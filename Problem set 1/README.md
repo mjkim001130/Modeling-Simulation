@@ -9,13 +9,27 @@
 
 ## Problem Results (GIF)
 
-### Moving Sphere & UAV
+### Moving Sphere 
 
- https://github.com/user-attachments/assets/5a7160c6-ab34-48d4-b720-10f22fa78d73| https://github.com/user-attachments/assets/e46da77a-d6ad-41c6-9505-f1cf69995666
---- | ---
-### Two link Manipulator & 6DOF Manipulator (Stanford Arm)
-![Two_Link_Manipulation](https://github.com/user-attachments/assets/af8c9f1d-f2a0-4b3d-8c8d-c134f17e444e) | ![6DOF_Manipulation(Stanford_Arm)](https://github.com/user-attachments/assets/e300d049-652f-4601-908b-b0a7ec7be59c)
---- | --- |
+https://github.com/user-attachments/assets/a6bdd681-5950-425b-b211-9a5df9d5c4ea
+
+### UAV
+
+https://github.com/user-attachments/assets/dca89f51-5a36-41d2-b893-c739ba6a9dd6
+
+### Two link Manipulator
+
+https://github.com/user-attachments/assets/7f03ef91-450f-45af-9e3a-d37390cc45ed
+
+### OpenMANIPULATOR-x
+
+https://github.com/user-attachments/assets/a60033c9-6a72-4fad-9b3e-d0c078cf6fdf
+
+https://github.com/user-attachments/assets/2931aa89-ff99-438f-8cfa-68c0b0065403
+
+
+
+
 
 
 
