@@ -5,7 +5,7 @@
 2. [Two Link Manipulator](./Two_Link_Manipulator.m)
 3. [UAV (Unmanned Aerial Vehicle)](./UAV.m)
 4. [openMANIPULATOR X](./openMANIPULATOR_X.m)
-5. [openMANIPULATOR X](./openMANIPULATOR_X_with_Ghost_Joint.m)
+5. [openMANIPULATOR X with ghost joint](./openMANIPULATOR_X_with_Ghost_Joint.m)
 
 
 ## Problem Results (GIF)
