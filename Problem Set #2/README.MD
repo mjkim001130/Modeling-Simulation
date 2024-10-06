@@ -23,7 +23,7 @@ $$m\ddot{x} + c\dot{x} + kx = 0$$
 
 ### Results
 - **Simulation Video**: 
-
+https://github.com/user-attachments/assets/1bbca4fb-8bfc-4d8d-a4bf-db13c7b81c76
 
 ---
 
