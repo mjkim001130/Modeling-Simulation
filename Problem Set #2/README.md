@@ -14,7 +14,9 @@ The mass-spring-damper system is modeled using second-order differential equatio
 
 ### State Space Form
 The state-space representation of the system is as follows:
+
 $$\dot{x} = Ax + Bu$$
+
 $$\begin{bmatrix}x\\ \dot{x}\end{bmatrix} = \begin{bmatrix}0 & 1\\ -\frac{k}{m} & -\frac{c}{m}\end{bmatrix} \begin{bmatrix}x\\ \dot{x}\end{bmatrix} + \begin{bmatrix}0\\ \frac{1}{m}\end{bmatrix} u$$
 
 ### System Equation Form
