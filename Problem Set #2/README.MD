@@ -23,6 +23,7 @@ $$m\ddot{x} + c\dot{x} + kx = 0$$
 
 ### Results
 - **Simulation Video**: 
+
 ![mds_simulation](https://github.com/user-attachments/assets/1a83a3ff-e73e-42c0-a350-51a0583c6340)
 
 ---
@@ -46,7 +47,9 @@ The system is governed by the following second-order equation:
 $$L\ddot{q} + R\dot{q} + \frac{1}{C}q = 0$$
 
 ### Results
-- **Simulation Image**: ![RLC Circuit Simulation](path_to_image)
+- **Simulation Image**: 
+
+![RLC_simulation](https://github.com/user-attachments/assets/70a49feb-0250-49fe-97b4-81b8e18cfd14)
 
 ---
 
@@ -65,11 +68,15 @@ $$\ddot{\theta} = -\frac{g}{L}\sin(\theta)$$
 ### Results
 
 #### Undamped Pendulum
-- **Simulation Video**: [Link to undamped pendulum video]
+- **Simulation Video**: 
 
+![Pendulum_undamped](https://github.com/user-attachments/assets/11788a4e-dcac-4228-93d7-072b8518ad23)
 
 #### Damped Pendulum
-- **Simulation Video**: [Link to damped pendulum video]
+- **Simulation Video**: 
+
+![Pendulum_damped](https://github.com/user-attachments/assets/abba575c-8422-4c6e-be52-25a9bee3bf84)
+
 
 
 
