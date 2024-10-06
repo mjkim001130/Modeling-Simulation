@@ -41,11 +41,14 @@ The RLC circuit is modeled using charge and current as state variables. The syst
 
 ### State Space Form
 The state-space representation for the RLC circuit is:
+
 $$\dot{x} = Ax + Bu$$
+
 $$\begin{bmatrix}q\\ \dot{q}\end{bmatrix} = \begin{bmatrix}-\frac{1}{RC} & \frac{1}{C}\\ -\frac{1}{L} & 0\end{bmatrix} \begin{bmatrix}q\\ \dot{q}\end{bmatrix} + \begin{bmatrix}0\\ \frac{1}{L}\end{bmatrix} u$$
 
 ### System Equation Form
 The system is governed by the following second-order equation:
+
 $$L\ddot{q} + R\dot{q} + \frac{1}{C}q = 0$$
 
 ### Results
@@ -66,6 +69,7 @@ The pendulum system is simulated in both **damped** and **undamped** cases. The 
 
 ### System Equation Form
 For the **undamped** pendulum, the equation of motion is:
+
 $$\ddot{\theta} = -\frac{g}{L}\sin(\theta)$$
 ### Results
 
