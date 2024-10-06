@@ -17,7 +17,7 @@ The state-space representation of the system is as follows:
 
 $$\dot{x} = Ax + Bu$$
 
-$$\begin{bmatrix}x\\ \dot{x}\end{bmatrix} = \begin{bmatrix}0 & 1\\ -\frac{k}{m} & -\frac{c}{m}\end{bmatrix} \begin{bmatrix}x\\ \dot{x}\end{bmatrix} + \begin{bmatrix}0\\ \frac{1}{m}\end{bmatrix} u$$
+$$\begin{bmatrix}x\\ \dot{x}\end{bmatrix} = \begin{bmatrix}0 & 1\\ -\frac{k}{m} & -\frac{c}{m}\end{bmatrix}x + \begin{bmatrix}0\\\frac{1}{m}\end{bmatrix}u$$
 
 ### System Equation Form
 The system is governed by the following second-order equation:
@@ -44,7 +44,7 @@ The state-space representation for the RLC circuit is:
 
 $$\dot{x} = Ax + Bu$$
 
-$$\begin{bmatrix}q\\ \dot{q}\end{bmatrix} = \begin{bmatrix}-\frac{1}{RC} & \frac{1}{C}\\ -\frac{1}{L} & 0\end{bmatrix} \begin{bmatrix}q\\ \dot{q}\end{bmatrix} + \begin{bmatrix}0\\ \frac{1}{L}\end{bmatrix} u$$
+$$\begin{bmatrix}x\\ \dot{x}\end{bmatrix} = \begin{bmatrix}-\frac{1}{RC} & \frac{1}{C}\\ -\frac{1}{L} & 0\end{bmatrix}x + \begin{bmatrix}0\\\frac{1}{L}\end{bmatrix}u$$
 
 ### System Equation Form
 The system is governed by the following second-order equation:
